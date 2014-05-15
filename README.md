@@ -3,7 +3,7 @@ AutoUpdateContentProvider
 ## 概要
 - Android用ContentProvider
 - 定期的にManifestが更新されているかをチェックしてくれる
-- アップデートがあれば自動的にコンテンツをDLする
+- 更新があれば自動的にコンテンツをDLする
 - コンテンツがzipならば展開してくれる
 - コンテンツは直接アクセス可能な場所に置く
 
