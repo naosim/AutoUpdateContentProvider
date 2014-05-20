@@ -18,7 +18,7 @@ public class Manifests {
         content_url("text not null"),
         main_file_name("text"),
         parent_packagename("text"),
-        is_update("integer");
+        is_autoupdate("integer");
 
         private String type;
         Column(String type) {
